@@ -92,4 +92,10 @@ public class WordPuzzle {
         System.out.println(wp);
     }
 }
-
+// black  1wh  2wh black black black  3wh  4wh  5wh
+//  6wh black black  7wh black  8wh black black black
+//  9wh black black black  10wh black black black black
+//  11wh black black  12wh black black black  13wh  14wh
+// black black black  15wh black black  16wh black black
+//  17wh  18wh  19wh black black  20wh black black black
+//  21wh black black black black black  22wh black black

@@ -115,3 +115,10 @@ public class NitalTester {
 //        System.out.println(containsRepeats(arr5));
     }
 }
+
+//true
+//true
+//false
+//false
+//false
+//false
