@@ -57,7 +57,10 @@ public class WordPuzzle {
                     count++;
                 }
                 else
-                    puzzle[i][j] = new Box(true,0);
+                    if(blackBoxes[i][j])
+                        puzzle[i][j] = new Box(true,0);
+                    else
+                        puzzle[i][j] = new Box(false,0);
             }
         }
 
